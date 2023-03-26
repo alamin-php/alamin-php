@@ -1,5 +1,4 @@
 ### Hi, I'm Al-Amin Sarker
-#### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQHeL4XMxpH_6A/profile-displaybackgroundimage-shrink_350_1400/0/1679804225053?e=1685577600&v=beta&t=aei-PgVdT9kbPU-PSqG-qfgvUIubRmivYw_GTmm_kt8)
 
 
