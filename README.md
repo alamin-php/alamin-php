@@ -16,7 +16,7 @@ As a full-stack software engineer, I specialize in building end-to-end web appli
 
 ### Software Engineer (Full-Stack)  
 **One ICT Ltd.**  
-*January 2023 - Present*  
+*March 2023 - Present*  
 - Developed and maintained scalable full-stack applications using Vue.js, Laravel, and Node.js.
 - Collaborated with cross-functional teams to design and implement new features and enhancements.
 - Worked on API integration, ensuring smooth interaction between front-end and back-end systems.
@@ -24,7 +24,7 @@ As a full-stack software engineer, I specialize in building end-to-end web appli
 
 ### Web Developer  
 **Nassa Group**  
-*March 2022 - December 2022*  
+*March 2019 - February 2023*  
 - Led the development of internal web applications for business process automation.
 - Integrated third-party services and APIs to extend the functionality of internal tools.
 - Worked closely with product teams to gather requirements and implement feature requests.
@@ -36,6 +36,15 @@ University of Dhaka International University (DIU)
 *Graduated: 2017*
 
 ## Projects
+
+### **NoChinta.xyz**
+- A modern platform designed to offer solutions for various business needs, including project management and team collaboration.
+- Built using **Laravel** for the back-end, **Vue.js** for the front-end, and **Inertia.js** for seamless server-side rendering and data handling.
+- **MySQL** was used as the database to efficiently store and manage data.
+- Implemented features like user authentication, real-time updates, and an intuitive user interface to enhance user experience.
+- Integrated a robust admin panel to manage users, content, and platform settings.
+- Ensured responsiveness and accessibility across devices for a smooth experience on both desktop and mobile.
+- Applied best practices for security, ensuring user data and application integrity are protected.
 
 ### **Project Management System**
 - A web application for managing tasks, teams, and projects.
