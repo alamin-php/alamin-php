@@ -32,7 +32,7 @@ As a full-stack software engineer, I specialize in building end-to-end web appli
 ## Education
 
 **Bachelor of Science in Computer Science**  
-University of Dhaka International University (DIU)
+Dhaka International University (DIU)
 *Graduated: 2017*
 
 ## Projects
