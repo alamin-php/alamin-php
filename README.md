@@ -58,16 +58,12 @@ Dhaka International University (DIU)
 
 ## Contact
 - **Email:** [dev.alaminsarker@gmail.com](mailto:dev.alaminsarker@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/al-amin-csebd)
-- **GitHub:** [GitHub Profile](https://github.com/alamin-php)
+- **LinkedIn:** [al-amin-csebd](https://www.linkedin.com/in/al-amin-csebd)
+- **GitHub:** [alamin-php](https://github.com/alamin-php)
 
 ## Let's Connect
 
 Feel free to reach out to me for any web development-related discussions, collaboration opportunities, or if you'd like to learn more about my projects. I’m always open to connecting with fellow developers and tech enthusiasts!
-
-Passionate about creating efficient, secure, and innovative solutions in web development. Always eager to learn and grow! 🌟
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alamin-php)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/al-amin-csebd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alamin.csebd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alamin33cse)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -75,12 +71,7 @@ Passionate about creating efficient, secure, and innovative solutions in web dev
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-php)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin-php&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alamin-php)  
-
-![GitHub metrics](https://metrics.lecoq.io/alamin-php)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin-php&show_icons=true&count_private=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alamin-php)  
 
-![Profile views](https://gpvc.arturio.dev/alamin-php)  
