@@ -9,7 +9,7 @@ As a full-stack software engineer, I specialize in building end-to-end web appli
 - **Frontend:** Vue.js, React, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
 - **Backend:** PHP, Laravel, Node.js, Express.js
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Technologies:** Git, GitHub, Docker, Webpack, Nginx, Apache
+- **Tools & Technologies:** Git, GitHub, Docker, Vite, Webpack, Nginx, Apache
 - **Other:** REST APIs, GraphQL, JWT Authentication, WebSockets, Agile/Scrum
 
 ## Experience
@@ -17,7 +17,7 @@ As a full-stack software engineer, I specialize in building end-to-end web appli
 ### Software Engineer (Full-Stack)  
 **One ICT Ltd.**  
 *March 2023 - Present*  
-- Developed and maintained scalable full-stack applications using Vue.js, Laravel, and Node.js.
+- Developed and maintained scalable full-stack applications using Vue.js, Laravel, Node.js and React.js.
 - Collaborated with cross-functional teams to design and implement new features and enhancements.
 - Worked on API integration, ensuring smooth interaction between front-end and back-end systems.
 - Ensured application performance and security by optimizing code and implementing best practices.
@@ -37,7 +37,7 @@ Dhaka International University (DIU)
 
 ## Projects
 
-### **NoChinta.xyz**
+### **Home Health Care Management System**
 - A modern platform designed to offer solutions for various business needs, including project management and team collaboration.
 - Built using **Laravel** for the back-end, **Vue.js** for the front-end, and **Inertia.js** for seamless server-side rendering and data handling.
 - **MySQL** was used as the database to efficiently store and manage data.
@@ -46,13 +46,23 @@ Dhaka International University (DIU)
 - Ensured responsiveness and accessibility across devices for a smooth experience on both desktop and mobile.
 - Applied best practices for security, ensuring user data and application integrity are protected.
 
+### **Construction Management System**
+- A web application designed to streamline construction project planning, tracking, and management.
+- Built with Laravel for a robust back-end and React.js for a dynamic and responsive front-end.
+- Features include real-time project updates, resource allocation, and role-based user access for secure collaboration.
+
+### **Accounts and Inventory Management System**
+- A web application for managing accounts, inventory, and business operations.
+- Built with Laravel for the back-end and Vanilla JavaScript for the front-end.
+- Features real-time inventory tracking and role-based user permissions for secure management.
+
 ### **Project Management System**
 - A web application for managing tasks, teams, and projects.
 - Built with Vue.js and Laravel for full-stack development.
 - Integrated real-time notifications and user roles for managing permissions.
 
 ### **E-commerce Website**
-- Developed a full-fledged e-commerce website using React and Node.js.
+- Developed a full-fledged e-commerce website using React and Laravel.
 - Implemented features like product catalog, shopping cart, and user authentication.
 - Integrated payment gateway and order management system.
 
